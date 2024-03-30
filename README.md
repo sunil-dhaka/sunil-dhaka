@@ -1,5 +1,5 @@
 ## 👋 Hi, this is Sunil.
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>  
+<img align='right' src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width='200'>  
 <a href="https://github.com/sunil-dhaka/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
