@@ -13,10 +13,10 @@ Passionate in exploring the cutting-edge frontiers of deep learning and artifici
 **Research interests:** Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, Data Structures and Algorithms, Mathematics and Statistics.
 
 
-#### Technologies worked on:
+#### Technical Skills:
 - **Programming:** Python, C, R, SQL, Javascript, Bash/Shell 
 - **Cloud Ops:** GCP, Kubernetes, Docker, Azure, AWS, Cloud Shells
-- **Libraries:** Pytorch, Tensorflow, Keras, NLTK, Librosa, Pandas, Numpy, Langchain
+- **Libraries:** Pytorch, Tensorflow, Keras, FastAI, NLTK, Librosa, Pandas, Numpy, Langchain
 - **Utilities:** Git, LATEX, MySQL WB, Azure ML Studio, Vertex-AI(GCP)
 
 Cheers,
