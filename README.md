@@ -1,4 +1,4 @@
-# Hello World, I'm Rohan.👋
+# Hello World, I'm Sunil.👋
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>  
 <a href="https://github.com/sunil-dhaka/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
@@ -17,13 +17,13 @@ Technologies worked on:
 - Git, LATEX, MySQL WB, Linux Shell, Ubuntu
 
 Cheers,  
-Rohan Dubey  
+Sunil Dhaka
 [sunil-dhaka.github.io](https://sunil-dhaka.github.io/) 
 <details>
   <summary>Some other facts about me!</summary>
 
   
-  [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunil-dhaka&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunil-dhaka&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=Pulse-rate-monitoring-system&theme=dark)](https://github.com/sunil-dhaka/autodownloader-helloiitk)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=Face-Mask-Detector&theme=dark)](https://github.com/sunil-dhaka/IR-Project) 
