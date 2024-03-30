@@ -10,26 +10,27 @@
 <br />
 Passionate in exploring the cutting-edge frontiers of deep learning and artificial intelligence, and the potential of these technologies to solve complex real-world problems. I love to read latest research papers in AI, ML, and Data Science fields. Truly fascinated with the boundless possibilities that these fields offer. Details about my projects in repos.
 
-**Research interests:** Artificial Intelligence, Natural Language Processing, Computer Vision, Data Structures and Algorithms, as well as Mathematics and Statistics.
+**Research interests:** Artificial Intelligence, Natural Language Processing, Computer Vision, Data Structures and Algorithms, Mathematics and Statistics.
 
 
 #### Technologies worked on:
-- **Programming:** Python, C, R, SQL, Javascript, Bash/Shell  
-- **Cloud Ops:** GCP, Vertex-ai, Kubernetes, Docker, Azure, AWS
-- **Libraries:** pytorch, tensorflow, keras, nltk, librosa, pandas, numpy, langchain
-- **Utilities:** Git, LATEX, cloud shells
+- **Programming:** Python, C, R, SQL, Javascript, Bash/Shell 
+- **Cloud Ops:** GCP, Kubernetes, Docker, Azure, AWS, Cloud Shells
+- **Libraries:** Pytorch, Tensorflow, Keras, MLTK, Librosa, Pandas, Numpy, Langchain
+- **Utilities:** Git, LATEX, MySQL WB, Azure ML Studio, Vertex-AI(GCP)
 
 Cheers,
 Sunil Dhaka
 
 [sunil-dhaka.github.io](https://sunil-dhaka.github.io/) 
 <details>
-  <summary>Some other facts about me!</summary>
-
-  ![Total Commits](https://img.shields.io/github/commit-activity/y/sunil-dhaka)
-
+  <summary>Some interesting repos!</summary>
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=autodownloader-helloiitk&theme=dark)](https://github.com/sunil-dhaka/autodownloader-helloiitk)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=IR-Project&theme=dark)](https://github.com/sunil-dhaka/IR-Project) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=python-webScrappers&theme=dark)](https://github.com/sunil-dhaka/python-webScrappers)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=yt-uploads&theme=dark)](https://github.com/sunil-dhaka/yt-uploads) 
+  
 
 </details>
 <p align="center">
