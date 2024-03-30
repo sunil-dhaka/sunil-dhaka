@@ -8,13 +8,13 @@
 </a>
 <br />
 <br />
-I am a life-long learner, and I am always very focused on maximising my learning experiences. I am a tech freak who stays updated with recent technological advancement and love to discover new tech in the industry. I love to dig deep down into a program and see how all the pieces fit together in my free time. I am a curious Learner and also academically oriented to maximize my learnings.    
+I'm a perpetual learner. Tech enthusiast, always hunting latest open source utilities to help me with my flow and problems at hand. Delving into programs, puzzling over their inner workings. Curious learner, academically inclined. My work interests are deeply rooted in the domains of Artificial Intelligence, Natural Language Processing, Computer Vision, Data Structures and Algorithms, as well as Mathematics and Statistics. I am constantly seeking opportunities to expand my knowledge and contribute to the ever-evolving landscape of these disciplines.
 
 Technologies worked on:  
-- Python, C, R, SQL, Javascript, Bash/Shell  
-- GCP, Kubernetes, Docker, Azure, AWS
-- Flask, YOLO, CUDA, OpenCV
-- Git, LATEX, MySQL WB, Linux Shell, Ubuntu
+- **Programming:** Python, C, R, SQL, Javascript, Bash/Shell  
+- **Cloud Ops:** GCP, Vertex-ai, Kubernetes, Docker, Azure, AWS
+- **Libraries:** pytorch, tensorflow, keras, librosa
+- **Utilities:** Git, LATEX, cloud shells, 
 
 Cheers,  
 Sunil Dhaka
