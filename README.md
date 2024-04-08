@@ -8,15 +8,16 @@
 </a>
 <br />
 <br />
-Passionate in exploring the cutting-edge frontiers of deep learning and artificial intelligence, and the potential of these technologies to solve complex real-world problems. I love to read latest research papers in AI, ML, and Data Science fields. Truly fascinated with the boundless possibilities that these fields offer. Details about my projects in repos.
+Keenly interested in the latest advancements in deep learning and artificial intelligence, and their application to real-world challenges. I enjoy staying updated with research in AI/ML/Data Science. Enthusiastic about the endless possibilities these fields present. More information about my projects, work experience, resume, and blogs can be found on my webpage.
 
-**Research interests:** Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, Data Structures and Algorithms, Mathematics and Statistics.
+**Interests:** Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, Data Structures and Algorithms Mathematics and Statistics.
+
 
 
 #### Technical Skills:
-- **Programming:** Python, C, R, SQL, Javascript, Bash/Shell 
+- **Programming:** Python, C, R, SQL, Javascript, Bash/ShellSCript
 - **Cloud Ops:** GCP, Kubernetes, Docker, Azure, AWS, Cloud Shells
-- **Libraries:** Pytorch, Tensorflow, Keras, FastAI, NLTK, Librosa, Pandas, Numpy, Langchain
+- **Libraries:** Pytorch, Tensorflow, Keras, FastAI, Gradio, Librosa/PyAudio, OpenAI, Langchain
 - **Utilities:** Git, LATEX, MySQL WB, Azure ML Studio, Vertex-AI(GCP)
 
 Cheers,
@@ -27,7 +28,7 @@ Sunil Dhaka
   <summary>Some interesting repos!</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=autodownloader-helloiitk&theme=dark)](https://github.com/sunil-dhaka/autodownloader-helloiitk)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=IR-Project&theme=dark)](https://github.com/sunil-dhaka/IR-Project) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=finetuning-llms&theme=dark)](https://github.com/sunil-dhaka/finetuning-llms) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=python-webScrappers&theme=dark)](https://github.com/sunil-dhaka/python-webScrappers)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunil-dhaka&repo=yt-uploads&theme=dark)](https://github.com/sunil-dhaka/yt-uploads) 
   
