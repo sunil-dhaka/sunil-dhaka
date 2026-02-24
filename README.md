@@ -10,12 +10,11 @@
 <br />
 Hello!
 
-Math & Stats grad from IIT Kanpur with a Machine Learning minor. I’m into all things AI and deep learning - always curious about what’s next in the field. I love tinkering with new ML/AI tech and seeing how it can solve real problems. Check out my projects, work experience, and thoughts in the blog section.
+Math & Stats grad from IIT Kanpur with a ML minor. Interested in all things tech related - always curious about what’s next in the field. Trained to think in probabilities, not certainties.
 
-Interests: ML/AI, NLP, Computer Vision, Algorithms, Math & Stats
+Interests: ML/DL/AI/NLP/CV, Math & Stats, Economics, Data Stories, Traveling, Reading
 
 Cheers!
-Sunil Dhaka
 
 [sunil-dhaka.github.io](https://sunil-dhaka.github.io/) 
 <details>
